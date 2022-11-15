@@ -6,16 +6,16 @@
 
 3. Rename authorize.yml.dist to authorize.yml and add change username and patch to public key.
 
-3. Install
+4. Install
 
 >cd provisioning && make server
 
-4. Copy SSH key for user deploy on VM. 
+5. Copy SSH key for user deploy on VM. 
 
 >make authorize
 
-4. Deploy treafik
+6. Deploy treafik
 
 >cd .. && HOST=server_ip PORT=ssh_port make deploy
 
-5 Traefik network name: traefik-public
+7. Traefik network name: traefik-public
