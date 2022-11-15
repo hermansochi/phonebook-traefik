@@ -1,0 +1,7 @@
+/provisioning/hosts.yml
+/provisioning/server.yml
+/provisioning/authorize.yml
+/provisioning/htpasswd*
+/provisioning/.htpasswd*
+/htpasswd*
+/.htpasswd*
