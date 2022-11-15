@@ -1,4 +1,4 @@
-# phonebook-traefik for Ubuntu 22.04
+# Traefik for Ubuntu 22.04
 
 1. Rename hosts.yml.dist to hosts.yml and add server address and username.
 
