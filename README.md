@@ -14,7 +14,7 @@
 
 >make authorize
 
-6. Deploy treafik
+6. Deploy traefik
 
 >cd .. && HOST=server_ip PORT=ssh_port make deploy
 
